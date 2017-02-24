@@ -1,0 +1,30 @@
+Grading revision r42687 by zzhu24, dated 2015-11-15 15:51:31.000558895 -0600 CST
+Monad Autograder
+Testing lab_hash at 2015-11-16 01:24:36
+
+"We know about as much about software quality problems as they knew about the Black Plague in the 1600s. We've seen the victims' agonies and helped burn the corpses. We don't know what causes it; we don't really know if there is only one disease. We just suffer -- and keep pouring our sewage into our water supply." ~ Tom Van Vleck
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+testRemoveEASY . [6 pts]  - passed
+testRemoveHard . [10 pts] - passed
+testResizeOnce . [7 pts]  - passed
+testResizeAll  . [11 pts] - passed
+testInsertEasy . [6 pts]  - passed
+testInsertHard . [10 pts] - passed
+testAnagramsSC . [8 pts]  - passed
+testAnagramsLP . [8 pts]  - passed
+testWordCountSC  [8 pts]  - passed
+testWordCountLP  [8 pts]  - passed
+testLogfileParse [18 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

@@ -1,0 +1,27 @@
+Grading revision r36902 by zzhu24, dated 2015-10-31 15:18:03.000682512 -0500 CDT
+Monad Autograder
+Testing lab_avl at 2015-11-02 00:44:12
+
+"Microsoft has a new version out, Windows XP, which according to everybody is the 'most reliable Windows ever.' To me, this is like saying that asparagus is 'the most articulate vegetable ever.'" ~ Dave Barry
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_oneElement  . . . [10 pts] - passed
+test_simpleRotateLeft  [10 pts] - passed
+test_simpleRotateRight [10 pts] - passed
+test_threeLeftRotates  [10 pts] - passed
+test_threeRightRotates [10 pts] - passed
+test_manyRotations . . [20 pts] - passed
+test_manyInserts . . . [20 pts] - passed
+test_valgrind (asan) . [10 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+
