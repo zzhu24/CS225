@@ -1,0 +1,62 @@
+Grading revision r24971 by zzhu24, dated 2015-10-10 22:10:40.00002516 -0500 CDT
+Monad Autograder
+Testing lab_trees at 2015-10-12 02:25:28
+
+"It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration." ~ Edsger Dijkstra
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_isOrdered  . [33 pts] - FAILED: unit_tests.cpp:49: Assertion (tree2.isOrdered() == true) failed
+test_mirror . . . [33 pts] - passed
+test_printPaths . [34 pts] - passed
+test_sumDistances [25 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 92
+
+
+
+Detailed test output...
+================================================================
+----------------------------------------------------------------
+test_isOrdered [33 points]
+Result: FAILED: unit_tests.cpp:49: Assertion (tree2.isOrdered() == true) failed
+Took 0ms (1000ms timeout)
+Output:
+----------------------------------------------------------------
+                                                ______________ 6 ______________                                                  
+                                 ______________/                               \______________                                   
+                        ______ 3 ______                                                 ______ 0 ______                          
+                 ______/               \______                                   ______/               \______                   
+               8                               9                            __ 7                               5                 
+                                                                         __/                                                     
+                                                                       4                                                         
+                                                                         \                                                       
+                                                                           1                                                     
+                                                                          /                                                      
+                                                                         2                                                       
+                                                ______________ 1 ______________                                                  
+                                 ______________/                               \______________                                   
+                               0                                                        ______ 7 ______                          
+                                                                                 ______/               \______                   
+                                                                            __ 6                               8 __              
+                                                                         __/                                       \__           
+                                                                       3                                               9         
+                                                                     /   \                                                       
+                                                                   2       5                                                     
+                                                                          /                                                      
+                                                                         4                                                       
+
+
+----------------------------------------------------------------
+Total score...
+================================================================
+TOTAL SCORE: 92
+
