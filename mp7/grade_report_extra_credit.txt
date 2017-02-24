@@ -1,0 +1,24 @@
+Grading revision r46106 by zzhu24, dated 2015-11-29 22:15:14.000129385 -0600 CST
+Monad Autograder
+Testing mp7.1 at 2015-12-02 00:43:24
+
+"I think Microsoft named .NET so it wouldn't show up in a Unix directory listing." ~ Oktal
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+addElements1 . . . . [20 pts] - passed
+addElements2 . . . . [20 pts] - passed
+testFindAndSetUnion1 [20 pts] - passed
+testFindAndSetUnion2 [20 pts] - passed
+testFindAndSetUnion3 [20 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

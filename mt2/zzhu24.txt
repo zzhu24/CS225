@@ -1,0 +1,38 @@
+Exam report for zzhu24
+CS 225, Fall 2015, Midterm 2, Exam number 307, version 1
+
+ Num   Stu/Sol   Max   Score 
+----- --------- ----- -------
+   1    c / c    2.5    2.5
+   2    a / a    2.5    2.5
+   3    b / b    2.5    2.5
+   4    a / d    2.5    0.0
+   5    d / a    2.5    0.0
+   6    e / d    2.5    0.0
+   7    c / c    2.5    2.5
+   8    a / a    2.5    2.5
+   9    c / c    2.5    2.5
+  10    b / c    2.5    0.0
+  11    a / a    2.5    2.5
+  12    d / d    2.5    2.5
+  13    c / c    2.5    2.5
+  14    c / b    2.5    0.0
+  15    c / c    2.5    2.5
+  16    d / c    2.5    0.0
+  17    a / a    2.5    2.5
+  18    d / d    2.5    2.5
+  19    b / c    2.5    0.0
+  20    c / a    2.5    0.0
+  21             5.0    3.0  
+  22             5.0    1.0  
+  23             3.0    0.0  "bad header, functionality issues, no isempty"
+  24             5.0    3.0  "Must call pushAll on temp->right, if it's not null"
+  25             4.0    3.0  
+  26             5.0    5.0  
+  27             5.0    4.0  "new, set elem of internal node"
+  28             5.0    2.0  cd
+  29             3.0    0.0  
+  30            10.0    8.0  "e, f"
+----- --------- ----- -------
+                100.0  59.0
+ Normalized score = 59.00
