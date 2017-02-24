@@ -1,0 +1,8 @@
+Grading revision r921 by tolar2, dated 2015-08-26 15:48:44.000428693 -0500 CDT
+Monad Autograder
+Testing lab_intro at 2015-08-31 00:57:35
+
+"The slogan of Subversion for a while was "CVS done right", or something like that, and if you start with that kind of slogan, there's nowhere you can go. There is no way to do CVS right." ~ Linus Torvalds
+
+Setting up test environment...
+Error: /dev/shm/cs225student/autograder/temp/lab_intro/rgbapixel.cpp does not exist.
